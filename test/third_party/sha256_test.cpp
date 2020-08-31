@@ -8,9 +8,9 @@
 #include <cstdint>
 #include <vector>
 
-#include "veriblock/hashutil.hpp"
-#include "veriblock/literals.hpp"
-#include "veriblock/uint.hpp"
+#include "veriblock/internal/hashutil.hpp"
+#include "veriblock/internal/literals.hpp"
+#include "veriblock/internal/uint.hpp"
 
 using namespace altintegration;
 

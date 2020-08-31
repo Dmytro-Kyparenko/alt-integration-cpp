@@ -3,8 +3,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 #include <atomic>
-#include <veriblock/assert.hpp>
-#include <veriblock/time.hpp>
+#include <veriblock/internal/assert.hpp>
+#include <veriblock/internal/time.hpp>
 
 namespace altintegration {
 

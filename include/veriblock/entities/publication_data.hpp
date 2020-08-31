@@ -10,9 +10,9 @@
 #include <sstream>
 #include <vector>
 
-#include "veriblock/fmt.hpp"
-#include "veriblock/serde.hpp"
-#include "veriblock/strutil.hpp"
+#include "veriblock/internal/fmt.hpp"
+#include "veriblock/internal/serde.hpp"
+#include "veriblock/internal/strutil.hpp"
 
 namespace altintegration {
 

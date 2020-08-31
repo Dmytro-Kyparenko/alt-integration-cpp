@@ -5,7 +5,7 @@
 
 #include <gtest/gtest.h>
 
-#include <veriblock/keystone_util.hpp>
+#include <veriblock/internal/keystone_util.hpp>
 
 using namespace altintegration;
 

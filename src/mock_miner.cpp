@@ -8,8 +8,8 @@
 #include <stdexcept>
 
 #include "veriblock/entities/address.hpp"
-#include "veriblock/signutil.hpp"
-#include "veriblock/strutil.hpp"
+#include "veriblock/internal/signutil.hpp"
+#include "veriblock/internal/strutil.hpp"
 
 namespace altintegration {
 

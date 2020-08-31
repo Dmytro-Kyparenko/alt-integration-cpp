@@ -9,10 +9,10 @@
 #include <cstdint>
 #include <vector>
 
-#include "veriblock/hashutil.hpp"
-#include "veriblock/serde.hpp"
-#include "veriblock/slice.hpp"
-#include "veriblock/uint.hpp"
+#include "veriblock/internal/hashutil.hpp"
+#include "veriblock/internal/serde.hpp"
+#include "veriblock/internal/slice.hpp"
+#include "veriblock/internal/uint.hpp"
 
 namespace altintegration {
 

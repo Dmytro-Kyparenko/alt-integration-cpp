@@ -6,9 +6,9 @@
 #ifndef ALTINTEGRATION_ALTINTEGRATION_HPP
 #define ALTINTEGRATION_ALTINTEGRATION_HPP
 
-#include <veriblock/alt-util.hpp>
-#include <veriblock/blockchain/alt_block_tree.hpp>
+#include <veriblock/alt_block_tree.hpp>
 #include <veriblock/config.hpp>
+#include <veriblock/internal/alt-util.hpp>
 #include <veriblock/mempool.hpp>
 #include <veriblock/storage/payloads_index.hpp>
 

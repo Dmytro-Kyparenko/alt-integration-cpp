@@ -9,15 +9,15 @@
 #include <cstdint>
 #include <vector>
 
-#include "veriblock/consts.hpp"
-#include "veriblock/entities/address.hpp"
-#include "veriblock/entities/coin.hpp"
-#include "veriblock/entities/output.hpp"
-#include "veriblock/entities/publication_data.hpp"
-#include "veriblock/hashutil.hpp"
-#include "veriblock/serde.hpp"
-#include "veriblock/slice.hpp"
-#include "veriblock/uint.hpp"
+#include "address.hpp"
+#include "coin.hpp"
+#include "output.hpp"
+#include "publication_data.hpp"
+#include "veriblock/internal/consts.hpp"
+#include "veriblock/internal/hashutil.hpp"
+#include "veriblock/internal/serde.hpp"
+#include "veriblock/internal/slice.hpp"
+#include "veriblock/internal/uint.hpp"
 
 namespace altintegration {
 

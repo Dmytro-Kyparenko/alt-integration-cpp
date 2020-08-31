@@ -7,9 +7,9 @@
 
 #include <veriblock/third_party/BigDecimal.h>
 
-#include "veriblock/arith_uint256.hpp"
-#include "veriblock/blockchain/vbk_chain_params.hpp"
 #include "veriblock/entities/vbkblock.hpp"
+#include "veriblock/internal/arith_uint256.hpp"
+#include "veriblock/vbk_chain_params.hpp"
 
 namespace altintegration {
 

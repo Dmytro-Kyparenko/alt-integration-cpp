@@ -3,15 +3,14 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
-#include <veriblock/entities/address.hpp>
-#include <veriblock/serde.hpp>
-
 #include <gtest/gtest.h>
 
 #include <ostream>
 #include <string>
+#include <veriblock/entities/address.hpp>
+#include <veriblock/internal/serde.hpp>
 
-#include "veriblock/literals.hpp"
+#include "veriblock/internal/literals.hpp"
 
 using namespace altintegration;
 

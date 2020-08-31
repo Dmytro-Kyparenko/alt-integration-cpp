@@ -4,9 +4,9 @@
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 #include <gtest/gtest.h>
 
-#include <veriblock/uint.hpp>
-#include <veriblock/serde.hpp>
 #include <vector>
+#include <veriblock/internal/serde.hpp>
+#include <veriblock/internal/uint.hpp>
 
 using namespace altintegration;
 

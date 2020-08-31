@@ -9,15 +9,15 @@
 #include <cstdint>
 #include <vector>
 
-#include "veriblock/consts.hpp"
-#include "veriblock/entities/address.hpp"
-#include "veriblock/entities/btcblock.hpp"
-#include "veriblock/entities/btctx.hpp"
-#include "veriblock/entities/merkle_path.hpp"
-#include "veriblock/entities/vbkblock.hpp"
-#include "veriblock/hashutil.hpp"
-#include "veriblock/serde.hpp"
-#include "veriblock/slice.hpp"
+#include "address.hpp"
+#include "btcblock.hpp"
+#include "btctx.hpp"
+#include "merkle_path.hpp"
+#include "vbkblock.hpp"
+#include "veriblock/internal/consts.hpp"
+#include "veriblock/internal/hashutil.hpp"
+#include "veriblock/internal/serde.hpp"
+#include "veriblock/internal/slice.hpp"
 
 namespace altintegration {
 

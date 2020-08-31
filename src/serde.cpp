@@ -4,7 +4,7 @@
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
 #include <cstring>
-#include <veriblock/serde.hpp>
+#include <veriblock/internal/serde.hpp>
 
 namespace altintegration {
 

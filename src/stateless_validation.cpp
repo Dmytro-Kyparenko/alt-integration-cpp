@@ -3,17 +3,18 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
+#include "veriblock/internal/stateless_validation.hpp"
+
 #include <algorithm>
 #include <bitset>
 #include <string>
 #include <vector>
-#include <veriblock/blockchain/alt_chain_params.hpp>
+#include <veriblock/alt_chain_params.hpp>
 
-#include "veriblock/arith_uint256.hpp"
-#include "veriblock/blob.hpp"
-#include "veriblock/consts.hpp"
-#include "veriblock/stateless_validation.hpp"
-#include "veriblock/strutil.hpp"
+#include "veriblock/internal/arith_uint256.hpp"
+#include "veriblock/internal/blob.hpp"
+#include "veriblock/internal/consts.hpp"
+#include "veriblock/internal/strutil.hpp"
 
 namespace {
 

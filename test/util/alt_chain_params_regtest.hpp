@@ -6,7 +6,7 @@
 #ifndef ALTINTEGRATION_ALT_CHAIN_PARAMS_REGTEST_HPP
 #define ALTINTEGRATION_ALT_CHAIN_PARAMS_REGTEST_HPP
 
-#include <veriblock/blockchain/alt_chain_params.hpp>
+#include <veriblock/alt_chain_params.hpp>
 
 namespace altintegration {
 

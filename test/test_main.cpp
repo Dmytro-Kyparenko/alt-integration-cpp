@@ -7,8 +7,8 @@
 
 #include <sstream>
 #include <util/fmtlogger.hpp>
-#include <veriblock/fmt.hpp>
-#include <veriblock/logger.hpp>
+#include <veriblock/internal/fmt.hpp>
+#include <veriblock/internal/logger.hpp>
 
 static bool str2int(int& i, char const* s) {
   std::stringstream ss(s);

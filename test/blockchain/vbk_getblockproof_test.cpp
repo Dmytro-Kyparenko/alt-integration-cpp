@@ -8,9 +8,9 @@
 #include <memory>
 
 #include "block_headers.hpp"
-#include "veriblock/blockchain/pop/vbk_block_tree.hpp"
 #include "veriblock/blockchain/blocktree.hpp"
-#include "veriblock/literals.hpp"
+#include "veriblock/blockchain/vbk_block_tree.hpp"
+#include "veriblock/internal/literals.hpp"
 
 using namespace altintegration;
 

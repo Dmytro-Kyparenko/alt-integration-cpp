@@ -3,13 +3,13 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
-#include "veriblock/signutil.hpp"
+#include "veriblock/internal/signutil.hpp"
 
 #include <utility>
-#include <veriblock/assert.hpp>
+#include <veriblock/internal/assert.hpp>
 
-#include "veriblock/hashutil.hpp"
-#include "veriblock/strutil.hpp"
+#include "veriblock/internal/hashutil.hpp"
+#include "veriblock/internal/strutil.hpp"
 #include "veriblock/third_party/secp256k1.h"
 
 namespace altintegration {

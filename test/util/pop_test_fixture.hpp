@@ -10,15 +10,15 @@
 
 #include <util/alt_chain_params_regtest.hpp>
 #include <util/test_utils.hpp>
-#include <veriblock/blockchain/alt_block_tree.hpp>
-#include <veriblock/blockchain/btc_chain_params.hpp>
-#include <veriblock/blockchain/vbk_chain_params.hpp>
+#include <veriblock/alt_block_tree.hpp>
+#include <veriblock/btc_chain_params.hpp>
 #include <veriblock/entities/merkle_tree.hpp>
-#include <veriblock/logger.hpp>
+#include <veriblock/internal/logger.hpp>
 #include <veriblock/mempool.hpp>
 #include <veriblock/mock_miner.hpp>
 #include <veriblock/storage/inmem_block_storage.hpp>
 #include <veriblock/storage/util.hpp>
+#include <veriblock/vbk_chain_params.hpp>
 
 #include "util/comparator_test.hpp"
 #include "util/fmtlogger.hpp"

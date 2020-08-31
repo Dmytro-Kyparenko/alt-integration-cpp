@@ -8,12 +8,12 @@
 
 #include <vector>
 
-#include "veriblock/entities/vbk_merkle_path.hpp"
-#include "veriblock/entities/vbkblock.hpp"
-#include "veriblock/entities/vbkpoptx.hpp"
-#include "veriblock/fmt.hpp"
-#include "veriblock/serde.hpp"
-#include "veriblock/uint.hpp"
+#include "vbk_merkle_path.hpp"
+#include "vbkblock.hpp"
+#include "vbkpoptx.hpp"
+#include "veriblock/internal/fmt.hpp"
+#include "veriblock/internal/serde.hpp"
+#include "veriblock/internal/uint.hpp"
 
 namespace altintegration {
 

@@ -5,9 +5,9 @@
 
 #include <gtest/gtest.h>
 
-#include <veriblock/blockchain/btc_chain_params.hpp>
-#include <veriblock/blockchain/vbk_chain_params.hpp>
-#include <veriblock/stateless_validation.hpp>
+#include <veriblock/btc_chain_params.hpp>
+#include <veriblock/internal/stateless_validation.hpp>
+#include <veriblock/vbk_chain_params.hpp>
 
 using namespace altintegration;
 

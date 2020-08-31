@@ -5,7 +5,7 @@
 
 #include "veriblock/entities/atv.hpp"
 
-#include "veriblock/hashutil.hpp"
+#include "veriblock/internal/hashutil.hpp"
 
 using namespace altintegration;
 

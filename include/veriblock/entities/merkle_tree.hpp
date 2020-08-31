@@ -9,8 +9,8 @@
 #include <algorithm>
 #include <deque>
 #include <vector>
-#include <veriblock/arith_uint256.hpp>
 #include <veriblock/entities/merkle_path.hpp>
+#include <veriblock/internal/arith_uint256.hpp>
 
 namespace altintegration {
 

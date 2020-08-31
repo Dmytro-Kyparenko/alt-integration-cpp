@@ -6,7 +6,7 @@
 #include <gmock/gmock.h>
 #include <gtest/gtest.h>
 
-#include <veriblock/blockchain/alt_chain_params.hpp>
+#include <veriblock/alt_chain_params.hpp>
 #include <veriblock/blockchain/chain.hpp>
 #include <veriblock/entities/endorsements.hpp>
 #include <veriblock/entities/vbkblock.hpp>

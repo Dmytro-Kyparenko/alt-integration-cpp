@@ -11,12 +11,12 @@
 #include <sstream>
 #include <string>
 #include <vector>
-#include <veriblock/arith_uint256.hpp>
-#include <veriblock/blockchain/btc_block_addon.hpp>
-#include <veriblock/fmt.hpp>
-#include <veriblock/hashutil.hpp>
-#include <veriblock/serde.hpp>
-#include <veriblock/uint.hpp>
+#include <veriblock/internal/arith_uint256.hpp>
+#include <veriblock/internal/blockchain/btc_block_addon.hpp>
+#include <veriblock/internal/fmt.hpp>
+#include <veriblock/internal/hashutil.hpp>
+#include <veriblock/internal/serde.hpp>
+#include <veriblock/internal/uint.hpp>
 #include <veriblock/validation_state.hpp>
 
 namespace altintegration {

@@ -9,7 +9,7 @@
 #include <string>
 #include <vector>
 
-#include "veriblock/strutil.hpp"
+#include "veriblock/internal/strutil.hpp"
 
 struct TestCase {
   std::vector<uint8_t> binData{};

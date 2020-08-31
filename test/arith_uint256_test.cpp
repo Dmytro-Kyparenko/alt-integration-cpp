@@ -3,7 +3,7 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
-#include "veriblock/arith_uint256.hpp"
+#include "veriblock/internal/arith_uint256.hpp"
 
 #include <gtest/gtest.h>
 
@@ -11,8 +11,8 @@
 #include <ostream>
 #include <string>
 
-#include "veriblock/literals.hpp"
-#include "veriblock/uint.hpp"
+#include "veriblock/internal/literals.hpp"
+#include "veriblock/internal/uint.hpp"
 
 using namespace altintegration;
 

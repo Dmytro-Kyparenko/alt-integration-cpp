@@ -5,12 +5,12 @@
 
 #include "veriblock/entities/address.hpp"
 
-#include "veriblock/assert.hpp"
-#include "veriblock/base58.hpp"
-#include "veriblock/base59.hpp"
-#include "veriblock/consts.hpp"
-#include "veriblock/hashutil.hpp"
-#include "veriblock/serde.hpp"
+#include "veriblock/internal/assert.hpp"
+#include "veriblock/internal/base58.hpp"
+#include "veriblock/internal/base59.hpp"
+#include "veriblock/internal/consts.hpp"
+#include "veriblock/internal/hashutil.hpp"
+#include "veriblock/internal/serde.hpp"
 
 namespace altintegration {
 

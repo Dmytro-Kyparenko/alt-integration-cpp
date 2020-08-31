@@ -3,13 +3,14 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
+#include "veriblock/rewards/poprewards_calculator.hpp"
+
 #include <gtest/gtest.h>
 
-#include "veriblock/blockchain/miner.hpp"
-#include "veriblock/blockchain/pop/vbk_block_tree.hpp"
-#include "veriblock/mock_miner.hpp"
-#include "veriblock/rewards/poprewards_calculator.hpp"
 #include "util/test_utils.hpp"
+#include "veriblock/blockchain/miner.hpp"
+#include "veriblock/blockchain/vbk_block_tree.hpp"
+#include "veriblock/mock_miner.hpp"
 
 using namespace altintegration;
 

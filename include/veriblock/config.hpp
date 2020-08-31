@@ -8,12 +8,12 @@
 
 #include <utility>
 #include <vector>
-#include <veriblock/blockchain/alt_chain_params.hpp>
-#include <veriblock/blockchain/btc_chain_params.hpp>
-#include <veriblock/blockchain/vbk_chain_params.hpp>
-#include <veriblock/stateless_validation.hpp>
+#include <veriblock/alt_chain_params.hpp>
+#include <veriblock/btc_chain_params.hpp>
+#include <veriblock/internal/stateless_validation.hpp>
+#include <veriblock/vbk_chain_params.hpp>
 
-#include "veriblock/serde.hpp"
+#include "veriblock/internal/serde.hpp"
 
 namespace altintegration {
 struct Config {

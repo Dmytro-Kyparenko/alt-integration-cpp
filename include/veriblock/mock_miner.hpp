@@ -12,7 +12,7 @@
 
 #include "veriblock/blockchain/blocktree.hpp"
 #include "veriblock/blockchain/miner.hpp"
-#include "veriblock/blockchain/pop/vbk_block_tree.hpp"
+#include "veriblock/blockchain/vbk_block_tree.hpp"
 #include "veriblock/entities/atv.hpp"
 #include "veriblock/entities/btcblock.hpp"
 #include "veriblock/entities/merkle_tree.hpp"

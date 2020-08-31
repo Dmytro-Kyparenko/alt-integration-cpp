@@ -9,7 +9,7 @@
 
 #include <string>
 
-#include "veriblock/literals.hpp"
+#include "veriblock/internal/literals.hpp"
 
 using namespace altintegration;
 

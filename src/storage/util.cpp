@@ -2,7 +2,7 @@
 // https://www.veriblock.org
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
-#include <veriblock/blockchain/alt_block_tree.hpp>
+#include <veriblock/alt_block_tree.hpp>
 #include <veriblock/storage/util.hpp>
 
 namespace altintegration {

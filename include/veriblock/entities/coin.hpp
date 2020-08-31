@@ -8,8 +8,8 @@
 
 #include <cstdint>
 
-#include "veriblock/serde.hpp"
-#include "veriblock/fmt.hpp"
+#include "veriblock/internal/fmt.hpp"
+#include "veriblock/internal/serde.hpp"
 
 namespace altintegration {
 

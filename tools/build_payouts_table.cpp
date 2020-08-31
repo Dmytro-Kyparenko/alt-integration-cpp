@@ -3,8 +3,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
-#include <veriblock/blockchain/alt_chain_params.hpp>
-#include <veriblock/logger.hpp>
+#include <veriblock/alt_chain_params.hpp>
+#include <veriblock/internal/logger.hpp>
 #include <veriblock/rewards/poprewards_calculator.hpp>
 
 using namespace altintegration;

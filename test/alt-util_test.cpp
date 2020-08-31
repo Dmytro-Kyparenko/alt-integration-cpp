@@ -5,7 +5,7 @@
 
 #include <gtest/gtest.h>
 
-#include <veriblock/alt-util.hpp>
+#include <veriblock/internal/alt-util.hpp>
 #include <veriblock/mock_miner.hpp>
 
 using namespace altintegration;

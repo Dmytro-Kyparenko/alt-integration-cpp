@@ -3,12 +3,12 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
-#include <veriblock/algorithm.hpp>
 #include <veriblock/blockchain/commands/commands.hpp>
-#include <veriblock/blockchain/pop/vbk_block_tree.hpp>
-#include <veriblock/finalizer.hpp>
-#include <veriblock/logger.hpp>
-#include <veriblock/reversed_range.hpp>
+#include <veriblock/blockchain/vbk_block_tree.hpp>
+#include <veriblock/internal/algorithm.hpp>
+#include <veriblock/internal/finalizer.hpp>
+#include <veriblock/internal/logger.hpp>
+#include <veriblock/internal/reversed_range.hpp>
 
 namespace altintegration {
 

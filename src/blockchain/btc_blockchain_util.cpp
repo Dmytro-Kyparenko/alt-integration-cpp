@@ -7,7 +7,7 @@
 
 #include <chrono>
 #include <thread>
-#include <veriblock/blockchain/btc_chain_params.hpp>
+#include <veriblock/btc_chain_params.hpp>
 #include <veriblock/entities/btcblock.hpp>
 
 namespace altintegration {

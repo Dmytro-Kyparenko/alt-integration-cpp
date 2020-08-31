@@ -4,7 +4,7 @@
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
 #include <cstring>
-#include <veriblock/read_stream.hpp>
+#include <veriblock/internal/read_stream.hpp>
 
 namespace altintegration {
 

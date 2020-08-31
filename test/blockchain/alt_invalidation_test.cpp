@@ -6,7 +6,7 @@
 #include <gtest/gtest.h>
 
 #include <util/pop_test_fixture.hpp>
-#include <veriblock/blockchain/alt_block_tree.hpp>
+#include <veriblock/alt_block_tree.hpp>
 #include <veriblock/blockchain/tree_algo.hpp>
 
 using namespace altintegration;

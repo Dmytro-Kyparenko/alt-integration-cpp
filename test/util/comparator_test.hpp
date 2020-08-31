@@ -14,7 +14,7 @@
 #include <vector>
 
 #include "comparator_macro.hpp"
-#include "veriblock/blockchain/alt_block_tree.hpp"
+#include "veriblock/alt_block_tree.hpp"
 #include "veriblock/blockchain/base_block_tree.hpp"
 
 namespace altintegration {

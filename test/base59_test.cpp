@@ -3,7 +3,7 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
-#include "veriblock/base59.hpp"
+#include "veriblock/internal/base59.hpp"
 
 #include <gtest/gtest.h>
 
@@ -11,7 +11,7 @@
 #include <string>
 #include <vector>
 
-#include "veriblock/literals.hpp"
+#include "veriblock/internal/literals.hpp"
 using namespace altintegration;
 
 struct TestCase {

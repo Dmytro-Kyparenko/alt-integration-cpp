@@ -3,11 +3,12 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
-#include <deque>
-#include <veriblock/reversed_range.hpp>
-
 #include "veriblock/mempool.hpp"
-#include "veriblock/stateless_validation.hpp"
+
+#include <deque>
+#include <veriblock/internal/reversed_range.hpp>
+
+#include "veriblock/internal/stateless_validation.hpp"
 
 namespace altintegration {
 

@@ -11,7 +11,7 @@
 #include <algorithm>
 #include <random>
 #include <vector>
-#include <veriblock/blockchain/alt_chain_params.hpp>
+#include <veriblock/alt_chain_params.hpp>
 #include <veriblock/entities/altblock.hpp>
 
 namespace altintegration {

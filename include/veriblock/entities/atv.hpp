@@ -10,13 +10,13 @@
 #include <string>
 #include <vector>
 
-#include "veriblock/consts.hpp"
-#include "veriblock/entities/vbk_merkle_path.hpp"
-#include "veriblock/entities/vbkblock.hpp"
-#include "veriblock/entities/vbktx.hpp"
-#include "veriblock/fmt.hpp"
-#include "veriblock/serde.hpp"
-#include "veriblock/uint.hpp"
+#include "vbk_merkle_path.hpp"
+#include "vbkblock.hpp"
+#include "vbktx.hpp"
+#include "veriblock/internal/consts.hpp"
+#include "veriblock/internal/fmt.hpp"
+#include "veriblock/internal/serde.hpp"
+#include "veriblock/internal/uint.hpp"
 
 namespace altintegration {
 

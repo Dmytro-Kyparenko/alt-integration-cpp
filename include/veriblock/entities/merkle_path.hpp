@@ -10,10 +10,10 @@
 #include <stdexcept>
 #include <vector>
 
-#include "veriblock/consts.hpp"
-#include "veriblock/hashutil.hpp"
-#include "veriblock/serde.hpp"
-#include "veriblock/uint.hpp"
+#include "veriblock/internal/consts.hpp"
+#include "veriblock/internal/hashutil.hpp"
+#include "veriblock/internal/serde.hpp"
+#include "veriblock/internal/uint.hpp"
 
 namespace altintegration {
 

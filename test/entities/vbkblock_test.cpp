@@ -7,8 +7,8 @@
 
 #include <gtest/gtest.h>
 
-#include "veriblock/arith_uint256.hpp"
-#include "veriblock/literals.hpp"
+#include "veriblock/internal/arith_uint256.hpp"
+#include "veriblock/internal/literals.hpp"
 
 using namespace altintegration;
 

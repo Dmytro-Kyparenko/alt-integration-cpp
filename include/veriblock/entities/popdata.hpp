@@ -10,10 +10,10 @@
 
 #include <vector>
 
-#include "veriblock/entities/atv.hpp"
-#include "veriblock/entities/vtb.hpp"
-#include "veriblock/serde.hpp"
-#include "veriblock/slice.hpp"
+#include "atv.hpp"
+#include "veriblock/internal/serde.hpp"
+#include "veriblock/internal/slice.hpp"
+#include "vtb.hpp"
 
 namespace altintegration {
 

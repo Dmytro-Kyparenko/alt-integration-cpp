@@ -11,7 +11,7 @@
 
 #include "util/pop_test_fixture.hpp"
 #include "util/test_utils.hpp"
-#include "veriblock/hashutil.hpp"
+#include "veriblock/internal/hashutil.hpp"
 
 using namespace altintegration;
 

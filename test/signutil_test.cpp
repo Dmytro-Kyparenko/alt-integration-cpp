@@ -3,11 +3,11 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
-#include "veriblock/signutil.hpp"
+#include "veriblock/internal/signutil.hpp"
 
 #include <gtest/gtest.h>
 
-#include "veriblock/literals.hpp"
+#include "veriblock/internal/literals.hpp"
 
 using namespace altintegration;
 

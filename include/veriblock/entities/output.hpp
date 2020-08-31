@@ -6,8 +6,8 @@
 #ifndef ALT_INTEGRATION_INCLUDE_VERIBLOCK_ENTITIES_OUTPUT_HPP_
 #define ALT_INTEGRATION_INCLUDE_VERIBLOCK_ENTITIES_OUTPUT_HPP_
 
-#include "veriblock/entities/address.hpp"
-#include "veriblock/entities/coin.hpp"
+#include "address.hpp"
+#include "coin.hpp"
 #include "veriblock/json.hpp"
 
 namespace altintegration {

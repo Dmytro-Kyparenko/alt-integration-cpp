@@ -6,9 +6,9 @@
 #include <gtest/gtest.h>
 
 #include <veriblock/entities/merkle_tree.hpp>
-#include <veriblock/stateless_validation.hpp>
+#include <veriblock/internal/stateless_validation.hpp>
 
-#include "veriblock/literals.hpp"
+#include "veriblock/internal/literals.hpp"
 
 using namespace altintegration;
 

@@ -6,8 +6,8 @@
 #include <gtest/gtest.h>
 
 #include <vector>
-#include <veriblock/read_stream.hpp>
-#include <veriblock/write_stream.hpp>
+#include <veriblock/internal/read_stream.hpp>
+#include <veriblock/internal/write_stream.hpp>
 
 TEST(ReadStream, Read) {
   std::vector<uint8_t> buf{0, 1, 2, 3};

@@ -9,10 +9,10 @@
 
 #include <memory>
 
-#include "veriblock/arith_uint256.hpp"
-#include "veriblock/blockchain/pop/vbk_block_tree.hpp"
-#include "veriblock/blockchain/vbk_chain_params.hpp"
-#include "veriblock/time.hpp"
+#include "veriblock/blockchain/vbk_block_tree.hpp"
+#include "veriblock/internal/arith_uint256.hpp"
+#include "veriblock/internal/time.hpp"
+#include "veriblock/vbk_chain_params.hpp"
 
 using namespace altintegration;
 

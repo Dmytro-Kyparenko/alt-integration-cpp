@@ -9,15 +9,15 @@
 #include <cstdint>
 #include <string>
 #include <vector>
-#include <veriblock/arith_uint256.hpp>
-#include <veriblock/blockchain/block_index.hpp>
-#include <veriblock/blockchain/vbk_block_addon.hpp>
 #include <veriblock/entities/btcblock.hpp>
 #include <veriblock/entities/endorsements.hpp>
-#include <veriblock/fmt.hpp>
-#include <veriblock/hashutil.hpp>
-#include <veriblock/serde.hpp>
-#include <veriblock/uint.hpp>
+#include <veriblock/internal/arith_uint256.hpp>
+#include <veriblock/internal/blockchain/block_index.hpp>
+#include <veriblock/internal/blockchain/vbk_block_addon.hpp>
+#include <veriblock/internal/fmt.hpp>
+#include <veriblock/internal/hashutil.hpp>
+#include <veriblock/internal/serde.hpp>
+#include <veriblock/internal/uint.hpp>
 
 namespace altintegration {
 

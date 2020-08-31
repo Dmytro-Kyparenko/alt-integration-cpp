@@ -9,7 +9,7 @@
 #include <veriblock/entities/btcblock.hpp>
 #include <veriblock/mock_miner.hpp>
 
-#include "veriblock/literals.hpp"
+#include "veriblock/internal/literals.hpp"
 
 using namespace altintegration;
 

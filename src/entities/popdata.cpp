@@ -5,7 +5,7 @@
 
 #include <veriblock/entities/popdata.hpp>
 
-#include "veriblock/hashutil.hpp"
+#include "veriblock/internal/hashutil.hpp"
 
 namespace altintegration {
 

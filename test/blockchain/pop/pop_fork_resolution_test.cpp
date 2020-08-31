@@ -6,7 +6,7 @@
 #include <gtest/gtest.h>
 
 #include "veriblock/blockchain/pop/fork_resolution.hpp"
-#include "veriblock/blockchain/vbk_chain_params.hpp"
+#include "veriblock/vbk_chain_params.hpp"
 
 using namespace altintegration;
 

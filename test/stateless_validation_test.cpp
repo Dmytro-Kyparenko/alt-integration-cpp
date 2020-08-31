@@ -3,14 +3,15 @@
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
+#include "veriblock/internal/stateless_validation.hpp"
+
 #include <gtest/gtest.h>
 
 #include "util/alt_chain_params_regtest.hpp"
 #include "util/test_utils.hpp"
-#include "veriblock/blockchain/btc_chain_params.hpp"
-#include "veriblock/blockchain/vbk_chain_params.hpp"
-#include "veriblock/literals.hpp"
-#include "veriblock/stateless_validation.hpp"
+#include "veriblock/btc_chain_params.hpp"
+#include "veriblock/internal/literals.hpp"
+#include "veriblock/vbk_chain_params.hpp"
 
 using namespace altintegration;
 

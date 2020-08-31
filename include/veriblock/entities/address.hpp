@@ -9,9 +9,9 @@
 #include <cstdint>
 #include <string>
 
-#include "veriblock/read_stream.hpp"
-#include "veriblock/slice.hpp"
-#include "veriblock/write_stream.hpp"
+#include "veriblock/internal/read_stream.hpp"
+#include "veriblock/internal/slice.hpp"
+#include "veriblock/internal/write_stream.hpp"
 
 namespace altintegration {
 

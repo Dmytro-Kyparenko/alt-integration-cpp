@@ -5,7 +5,7 @@
 
 // A simple vblake Reference Implementation.
 
-#include <veriblock/vblake.h>
+#include <veriblock/internal/vblake.h>
 
 #include <cstdio>
 #include <cstring>

@@ -7,7 +7,7 @@
 
 #include "veriblock/entities/atv.hpp"
 #include "veriblock/entities/vtb.hpp"
-#include "veriblock/serde.hpp"
+#include "veriblock/internal/serde.hpp"
 
 namespace altintegration {
 

@@ -4,11 +4,11 @@
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
 #include <gtest/gtest.h>
-#include <veriblock/vblake.h>
+#include <veriblock/internal/vblake.h>
 
 #include <vector>
 
-#include "veriblock/literals.hpp"
+#include "veriblock/internal/literals.hpp"
 
 using namespace altintegration;
 

@@ -9,9 +9,9 @@
 
 #include <vector>
 
-#include "veriblock/literals.hpp"
-#include "veriblock/slice.hpp"
-#include "veriblock/strutil.hpp"
+#include "veriblock/internal/literals.hpp"
+#include "veriblock/internal/slice.hpp"
+#include "veriblock/internal/strutil.hpp"
 
 using namespace altintegration;
 

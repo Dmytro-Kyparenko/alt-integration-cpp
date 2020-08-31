@@ -11,15 +11,15 @@
 #include <unordered_map>
 #include <vector>
 
-#include "veriblock/blockchain/alt_block_tree.hpp"
-#include "veriblock/blockchain/alt_chain_params.hpp"
-#include "veriblock/blockchain/btc_chain_params.hpp"
-#include "veriblock/blockchain/vbk_chain_params.hpp"
+#include "alt_block_tree.hpp"
+#include "alt_chain_params.hpp"
+#include "btc_chain_params.hpp"
+#include "vbk_chain_params.hpp"
 #include "veriblock/entities/atv.hpp"
 #include "veriblock/entities/popdata.hpp"
 #include "veriblock/entities/vtb.hpp"
-#include "veriblock/mempool_result.hpp"
-#include "veriblock/signals.hpp"
+#include "veriblock/internal/mempool_result.hpp"
+#include "veriblock/internal/signals.hpp"
 
 namespace altintegration {
 

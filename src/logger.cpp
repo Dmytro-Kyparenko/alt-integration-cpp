@@ -5,8 +5,8 @@
 
 #include <fmt/format.h>
 
-#include <veriblock/assert.hpp>
-#include <veriblock/logger.hpp>
+#include <veriblock/internal/assert.hpp>
+#include <veriblock/internal/logger.hpp>
 
 namespace altintegration {
 

@@ -6,8 +6,8 @@
 #ifndef ALTINTEGRATION_ENDORSEMENTS_HPP
 #define ALTINTEGRATION_ENDORSEMENTS_HPP
 
-#include "veriblock/entities/endorsement.hpp"
-#include "veriblock/fmt.hpp"
+#include "endorsement.hpp"
+#include "veriblock/internal/fmt.hpp"
 
 namespace altintegration {
 

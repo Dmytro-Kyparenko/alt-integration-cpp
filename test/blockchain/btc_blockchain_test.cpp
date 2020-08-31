@@ -12,7 +12,7 @@
 #include "veriblock/blockchain/blocktree.hpp"
 #include "veriblock/blockchain/btc_blockchain_util.hpp"
 #include "veriblock/blockchain/miner.hpp"
-#include "veriblock/literals.hpp"
+#include "veriblock/internal/literals.hpp"
 
 using namespace altintegration;
 

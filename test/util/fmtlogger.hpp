@@ -6,7 +6,7 @@
 #ifndef VERIBLOCK_POP_CPP_FMTLOGGER_HPP
 #define VERIBLOCK_POP_CPP_FMTLOGGER_HPP
 
-#include <veriblock/logger.hpp>
+#include <veriblock/internal/logger.hpp>
 
 namespace altintegration {
 
